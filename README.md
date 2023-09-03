@@ -6,9 +6,6 @@ descripción
 Sandra está desarrollando una aplicación para gestionar la biblioteca de su universidad. En este trabajo ayudaremos a Sandra creando una aplicación que la ayude a registrar y mostrar los datos de los libros de la biblioteca.
 Las principales funciones de estan son, añadir un nuevo libro a la biblioteca, mostrar los datos de los libros en biblioteca, mostrar todos los libros, reservas, e importar libros desde archivos .csv.
 
-#Como compilar y ejecutar
-
-
 
 
 #funcionalidades
