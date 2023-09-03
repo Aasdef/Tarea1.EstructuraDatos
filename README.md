@@ -9,7 +9,14 @@ Las principales funciones de estan son, añadir un nuevo libro a la biblioteca, 
 Ejecutar
 
 desde replit
-Abrir replit e iniciar sesion con su respectiva cuenta.
+
+descargar los archivos desde github.
+
+crear un replit con tipo de lenguaje c.
+
+copiar los archivos en la parte izquierda de la pantalla.
+
+ejecutar con "run".
 
 
 #funcionalidades
